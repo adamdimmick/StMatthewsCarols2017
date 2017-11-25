@@ -5,21 +5,12 @@ h2{
     margin-top: 40px;
 }
 
-h3{
-    margin-top: 30px;
-    background-color: #eeeeee;
-    padding:5px
-}
+
 li {
     margin-bottom: 10px;
-    font-weight: 600;
-    font-size: 1.2em;
+
 }
 
-li a {
-    font-weight: 200;
-    font-size: 0.9em;
-}
 audio {
     margin-top:5px;
 }
